@@ -1,2 +1,3 @@
 # birthday-remainder
-Created with CodeSandbox
+
+a webapp to keep track of friends birthday 
